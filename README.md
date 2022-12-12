@@ -4,5 +4,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanbm18&show_icons=true&locale=en&layout=compact" alt="ivanbm18" /></p>
 
-<p>&nbsp;<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=ivanbm18&show_icons=true&locale=en" alt="ivanbm18" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ivanbm18&show_icons=true&locale=en" alt="ivanbm18" /></p>
 
