@@ -1,7 +1,7 @@
 <h1 align="center">Hi!, I'm Ivan Barba</h1>
 <h3 align="center">Student at the Universidad de Guadalajara (UdeG). Learning something new everyday.</h3>
 <li>
-  <ul>Readme in progress....</ul>
+  Readme in progress....
 </li>
 
 <div display="flex"> 
