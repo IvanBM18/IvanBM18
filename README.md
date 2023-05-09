@@ -1,5 +1,5 @@
 <h1 align="center">Hi!, I'm Ivan Barba</h1>
-<h3 align="center">Student at the Universidad de Guadalajara (UdeG). <br>Learning something new everyday.</h3>
+<h3 align="center">Student at the Universidad de Guadalajara (UdeG). 
 <h3> ✏About Me: </h3> 
 <ul>
   <li>Computer Engineering student at the UdeG (Universidad de Guadalajara)</li>
